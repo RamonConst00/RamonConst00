@@ -30,11 +30,14 @@ Desenvolvedor Python apaixonado por criar soluções eficientes e escaláveis.
 - 📚 Contribuidor em projetos open source
 
 ---
+
 ## 📫 Como me encontrar
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-freire-7460163a6/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-freire-7460163a6/)
 - [![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](Ramonfreire.075@gmail.com)
 
 ---
 *“O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier*
+
+---
 
